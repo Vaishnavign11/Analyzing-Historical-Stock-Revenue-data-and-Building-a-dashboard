@@ -1,7 +1,6 @@
 # Analyzing-Historical-Stock-Revenue-data-and-Building-a-dashboard
 Analyzing Historical Stock and Revenue data and Building a dashboard using yfinance and webscraping of Tesla real time data and GameStop data and dashboard 
 
-https://jupyterlabnext-0-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/etaboinavais/lab/workspaces/auto-X/tree/PY0220EN/labs/project/Final%20Assignment.ipynb
 
 
 
